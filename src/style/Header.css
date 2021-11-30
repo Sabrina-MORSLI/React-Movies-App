@@ -1,0 +1,32 @@
+.header {
+    background-color: #ff5047;
+    color: black;
+    /* text-align: left; */
+    padding: 32px;
+    
+}
+.logo {
+    float: left;
+}
+.liens_cv_linkedin {
+    margin-left: 80%;
+    text-decoration: none;
+    font-family: "sf-pro","Open Sans","Roboto","Helvetica","Arial",sans-serif!important;
+    
+    font-weight:bolder;
+    color: #fff;    
+}
+
+.liens_style {
+    color:#fff;
+    /* margin:; */
+
+}
+.margin_liens {
+    margin-right: 20%;
+}
+
+.Title {
+    text-align: center;
+    font-family: "sf-pro","Open Sans","Roboto","Helvetica","Arial",sans-serif!important;
+  }
